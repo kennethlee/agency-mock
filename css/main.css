@@ -8968,3 +8968,9 @@ a:focus {
     padding: 100px 0;
   }
 }
+#clients {
+  text-align: center;
+}
+#clients img {
+  margin-right: 40px;
+}
