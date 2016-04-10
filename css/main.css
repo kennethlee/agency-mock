@@ -8894,3 +8894,39 @@ a:focus {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   }
 }
+.intro {
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 100px 0;
+  text-align: center;
+  color: #F4F4F4;
+  background: url('../img/intro-bg.jpg') no-repeat bottom center scroll;
+  background-color: #333333;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -opera-background-size: cover;
+}
+.intro-body {
+  display: table-cell;
+  vertical-align: middle;
+}
+.brand-heading {
+  font-size: 40px;
+}
+.intro-text {
+  font-size: 18px;
+}
+@media (min-width: 767px) {
+  .intro {
+    height: 100%;
+    padding: 0;
+  }
+  .brand-heading {
+    font-size: 100px;
+  }
+  .intro-text {
+    font-size: 25px;
+  }
+}
