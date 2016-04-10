@@ -1,5 +1,7 @@
-### My basic Bootstrap template
+### Digital Agency Website Mockup
 
 ---
 
-Currently using v3.3.6.
+UI mockup for a fictional digital agency.
+
+Made using Bootstrap and LESS.
