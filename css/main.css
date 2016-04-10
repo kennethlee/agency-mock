@@ -8834,3 +8834,8 @@ h6 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   letter-spacing: 1px;
 }
+p {
+  margin: 0 0 25px;
+  font-size: 18px;
+  line-height: 1.6em;
+}
