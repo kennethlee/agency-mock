@@ -8970,6 +8970,7 @@ a:focus {
 }
 #clients {
   text-align: center;
+  padding-bottom: 80px;
 }
 #clients img {
   margin-right: 40px;
